@@ -1,0 +1,2 @@
+# utl_using_nonlinear_optimization_to_fit_an_arc_tangent_curve
+Using Nonlinear Optimization to fit an arc tangent curve. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
